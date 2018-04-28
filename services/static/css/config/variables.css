@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+:root {
+    --gutter: 16px;
+    --padding: 16px;
+    --margin: 16px;
+    --main_font: 'Roboto', sans-serif;
+
+    --dark_blue: #1c6dbd;
+
+    --gray_9: #999;
+
+    --tablet: 768px;
+}
